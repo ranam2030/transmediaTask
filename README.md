@@ -51,8 +51,7 @@ Run the Test
 ```bash
     npx playwright test
 ```
-
-![Test Screenshot](https://imgur.com/a/42ijymF)
-
+## Result
+![Image](https://github.com/user-attachments/assets/b6fd4168-8038-49ff-a3c6-61991b275547)
 
 
