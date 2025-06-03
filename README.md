@@ -52,5 +52,7 @@ Run the Test
     npx playwright test
 ```
 
+![Test Screenshot](https://imgur.com/a/42ijymF)
+
 
 
